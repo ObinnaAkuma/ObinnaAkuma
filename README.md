@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obinna Akuma</h1>
-<h3 align="center">An Android Developer Currently Interning @ HNG X</h3>
+<h3 align="center">An Android Developer Currently Interning @ HNGX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obinnaakuma&label=Profile%20views&color=0e75b6&style=flat" alt="obinnaakuma" /> </p>
 
